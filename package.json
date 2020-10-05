@@ -1,6 +1,6 @@
 {
 	"name": "@cfware/fixture-run-directory",
-	"version": "0.1.0",
+	"version": "0.2.0",
 	"description": "Base class for building daemons within a fixture run directory.",
 	"type": "module",
 	"main": "index.js",
