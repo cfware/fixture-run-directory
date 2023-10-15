@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.0.0](https://github.com/cfware/fixture-run-directory/compare/v0.2.0...v1.0.0) (2023-10-15)
+
+
+### ⚠ BREAKING CHANGES
+
+* Upgrade development dependencies
+
+### Features
+
+* Upgrade development dependencies ([b0f3fa7](https://github.com/cfware/fixture-run-directory/commit/b0f3fa7e5ea7c6afc55fa4bd9e390fec6aa7fde5))
+
 ## [0.2.0](https://github.com/cfware/fixture-run-directory/compare/v0.1.0...v0.2.0) (2020-10-05)
 
 
